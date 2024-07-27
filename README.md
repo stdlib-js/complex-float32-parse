@@ -52,6 +52,11 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-parse@esm/index.mjs';
+```
+The previous example will load the latest bundled code from the esm branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/complex-float32-parse/tags). For example,
+
+```javascript
 import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-parse@v0.0.2-esm/index.mjs';
 ```
 
@@ -60,7 +65,7 @@ import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float3
 Parse a string representation of a 64-bit [complex number][@stdlib/complex/float32/ctor].
 
 ```javascript
-import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-parse@v0.0.2-esm/index.mjs';
+import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-parse@esm/index.mjs';
 import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@esm/index.mjs';
 import imag from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-imag@esm/index.mjs';
 
@@ -104,7 +109,7 @@ For details on the string format, see [Complex64][@stdlib/complex/float32/ctor].
 <body>
 <script type="module">
 
-import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-parse@v0.0.2-esm/index.mjs';
+import parseComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-parse@esm/index.mjs';
 import isComplex64 from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-is-complex64@esm/index.mjs';
 import real from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-real@esm/index.mjs';
 import imag from 'https://cdn.jsdelivr.net/gh/stdlib-js/complex-float32-imag@esm/index.mjs';
