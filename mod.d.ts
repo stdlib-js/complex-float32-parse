@@ -20,7 +20,7 @@
 
 // MODULES //
 
-/// <reference types="@stdlib/types"/>
+/// <reference types="https://cdn.jsdelivr.net/gh/stdlib-js/types@main/index.d.ts"/>
 
 import { Complex64 } from '@stdlib/types/complex';
 
