@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-04)
+## Unreleased (2026-11-08)
 
 <section class="bug-fixes">
 
@@ -22,6 +22,7 @@
 
 <details>
 
+-   [`5427b02`](https://github.com/stdlib-js/stdlib/commit/5427b02db89c96e0dccadc74e2b3e372247a1992) - **docs:** improve doctests for complex number instances [(#16532)](https://github.com/stdlib-js/stdlib/pull/16532) _(by Mustansir-06)_
 -   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`83bfd15`](https://github.com/stdlib-js/stdlib/commit/83bfd159fa82bb3fd5d2d46e2eeb597fc7fb7a47) - **fix:** fix and unify complex parsing logic [(#13069)](https://github.com/stdlib-js/stdlib/pull/13069) _(by Abdul Kaium, Athan Reines)_
 
@@ -35,10 +36,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Abdul Kaium
 -   Athan Reines
+-   Mustansir-06
 -   Philipp Burckhardt
 
 </section>
